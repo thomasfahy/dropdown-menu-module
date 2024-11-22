@@ -1,0 +1,23 @@
+{
+  "name": "dropdown-menu-module",
+  "version": "1.0.0",
+  "description": "A dropdown menu for future projects / sites",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/thomasfahy/dropdown-menu-module.git"
+  },
+  "keywords": [
+    "dropdown",
+    "menu"
+  ],
+  "author": "Thomas Fahy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thomasfahy/dropdown-menu-module/issues"
+  },
+  "homepage": "https://github.com/thomasfahy/dropdown-menu-module#readme"
+}
